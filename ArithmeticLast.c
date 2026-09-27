@@ -1,3 +1,4 @@
+///STRUCTURAL PROGRAMMING LANGUAGE
 #include<stdio.h>
 int main(){
 
