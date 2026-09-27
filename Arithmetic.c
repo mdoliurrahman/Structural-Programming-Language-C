@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main(){
 
-  int x=50;
-  int y=10;
+  int X=50;
+  int Y=10;
 
-      printf("%d\n",x+y);
-      printf("%d\n",x-y);
-      printf("%d\n",x*y);
-      printf("%d\n",x/y);
-      printf("%d\n",x%y);
+      printf("%d\n",X+Y);
+      printf("%d\n",X-Y);
+      printf("%d\n",X*Y);
+      printf("%d\n",X/Y);
+      printf("%d\n",X%Y);
 
 
         int z=40;
